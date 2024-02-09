@@ -27,7 +27,6 @@ Relation extraction (RE) is a crucial task in natural language processing (NLP) 
 2. python shell run "import nltk nltk.download('punkt')"
 3. copy model and data files in main folder from "https://drive.google.com/drive/folders/1CriZLyzIEMnQVWMF29rSYZG9MaMFhEyD?usp=sharing"
 4. Run demo_notebook to test the model.
-NOTE: for pattern templates mentioned in paper see comments in parse_str method in both 2,3 point files.
 ```
 citation
 @article{rajpoot2023gpt,
